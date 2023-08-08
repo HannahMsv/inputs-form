@@ -40,8 +40,9 @@ span{
     border-radius: 20px;
     padding: 5px 70px;
     border: none;
-    color: white;
+    color: rgb(0, 0, 0);
     margin-bottom: 20px;
+    font-weight: bold;
 }
 .dynamic-link{
     background-color: rgb(199, 0, 0);
